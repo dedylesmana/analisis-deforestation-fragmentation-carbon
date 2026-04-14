@@ -1,5 +1,4 @@
 # Berau Deforestation, Forest Fragmentation, and Carbon Stock Analysis
-# Berau Deforestation, Forest Fragmentation, and Carbon Stock Analysis
 
 This repository presents a spatial analysis project of deforestation, forest fragmentation, and carbon stock in **Berau Regency, East Kalimantan, Indonesia**, using **R**.
 
